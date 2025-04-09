@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => ({
     host: "::",
     port: 8080,
   },
-  base: "/irukandji-design-marketing-site",
+  base: "https://jayendra-sharan.github.io/irukandji-design-marketing-site/",
   build: {
     outDir: "./docs",
     emptyOutDir: true, // also necessary
